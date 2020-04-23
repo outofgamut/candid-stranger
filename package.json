@@ -1,0 +1,8 @@
+{
+  "name": "candid-stranger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/outofgamut/candid-stranger.git",
+  "author": "John S <jsalvie@gmail.com>",
+  "license": "MIT"
+}
