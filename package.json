@@ -1,7 +1,14 @@
 {
   "name": "candid-stranger",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.0.0-rc.5",
+    "graphql": "^0.13.2",
+    "nodemon": "^1.17.5"
+  },
   "repository": "https://github.com/outofgamut/candid-stranger.git",
   "author": "John S <jsalvie@gmail.com>",
   "license": "MIT"
